@@ -40,7 +40,7 @@ Microsoft
 [Lightspace](https://www.microsoft.com/en-us/research/video/lightspace/)
 project probably went farther than any other to showcase what PROCAMs could do:
 
-![Image of two people in front of a table, a projector rendering an image on the palm of their hands]()
+![Image of two people in front of a table, a projector rendering an image on the palm of their hands](lightspace.png)
 
 Lightspace engendered a number of other successful projects at Microsoft, but
 Lightscape itself wound down over time.
@@ -49,28 +49,28 @@ Other companies expanded the projection surface beyond Lightspace's walls, hands
 tabletops, onto buildings and landscapes  (examples below are from from Obscura
 Digital and Lightform):
 
-![Image of a lion rendered on a building]()
-![Image of a rock painted with a projector]()
-![Image of a shoe painted with a projector]()
+![Image of a lion rendered on a building](lion.png)
+![Image of a rock painted with a projector](rock.png)
+![Image of a shoe painted with a projector](shoe.png)
 
 These companies showcased what PROCAMs can do in the hands of professionals and
 researchers.  But this article is about consumer PROCAMs.
 
 Here is one PROCAM that projected on windows:
 
-![Image of a head up display mounted in a car, with traffic visible through the it]()
+![Image of a head up display mounted in a car, with traffic visible through the it](navdy.png)
 
 This was Navdy, an after-market head-up display (HUD) for cars. It had a
 projector, a camera, and all the other components you’d expect from a PROCAM.
 
 Here is Amazon’s Glow, a tabletop PROCAM that projects on tables:
 
-![A procam display on a table. A child touching the illuminated tabletop]()
+![A procam display on a table. A child touching the illuminated tabletop](glow.png)
 
 You can play games, or make video calls with it. Here is Sony’s Experia Touch,
 designed to project either on a wall or on a table depending on how it’s oriented:
 
-![The Sony Experia Touch showing time & weather on a wall. A silhouette observing the wall.]()
+![The Sony Experia Touch showing time & weather on a wall. A silhouette observing the wall.](silhouette.png)
 
 [CastAR](https://venturebeat.com/2017/06/28/castars-collapse-shows-the-incredible-challenge-of-making-ar-games/)
 were augmented reality glasses. Instead of shining light directly from the
@@ -78,7 +78,7 @@ glasses into your eyes, they projected light onto a special a retro-reflective
 mat. The mat then bounced the light into 3D glasses. In some ways, this is a
 much simpler optical design than most augmented reality glasses.
 
-![Two people wearing CastAR headsets, playing a dungeon game]()
+![Two people wearing CastAR headsets, playing a dungeon game](castar.png)
 
 My own involvement in PROCAMs started academically in grad school.  PROCAMs
 were in the air in the early 2000s. Later, I worked on Navdy, which had
@@ -171,7 +171,7 @@ to old instincts, and most of these instincts probably came from ingesting
 advertising. Ads that directly tackle a customer pain point are rare. Here’s an
 early one from Apple:
 
-![A 1980s ad for the Apple computer]()
+![A 1980s ad for the Apple computer](apple.png)
 
 The pain point amounts to “PCs are hard to learn. Apple makes it easier.” It’s
 rare for consumer electronics ads today to explicitly call out the pain point
@@ -184,7 +184,7 @@ when too many programs are running.
 Some ads can be even more removed from pain points. Here is an ad for a shoe, I
 think:
 
-![A Nike Just Do It ad. We see the top half of A shirtless man holding a basketball awkwardly on his shoulder, a neutral expression on his face.]()
+![A Nike Just Do It ad. We see the top half of A shirtless man holding a basketball awkwardly on his shoulder, a neutral expression on his face.](nike.png)
 
 It doesn’t mention any specs. It doesn’t even indirectly allude to a painpoint.
 This ad itself is part of the product. When you wear a Nike product, you’ll
@@ -290,7 +290,7 @@ any surfaces into a display”.
 PROCAM teams recognize with these issues early on, but often don’t grapple with them until
 it's too late. Here is the Amazon Glow marketing image again:
 
-![A procam display on a table. A child touching the illuminated tabletop]()
+![A procam display on a table. A child touching the illuminated tabletop](glow.png)
 
 The screen on the table is white, but Elmo’s eyes are implausibly black. The pixels
 of a projector can’t be darker than the background. Somebody photoshopped this
@@ -300,7 +300,7 @@ pixels. But because physics was unyielding so they resorted to Photoshop.
 The flip side of the black pixel problem is that projectors have dismal
 contrast under typical lighting. Here is the Sony Xperia at CES:
 
-![Sony Experia Touch showing adequately high contrast image, but in a dark room]()
+![Sony Experia Touch showing adequately high contrast image, but in a dark room](sony-dark-wall.png)
 
 The walls of the booth are white, yet they appear gray. The walls of the booth
 had to be extend to the ceiling of the convention center to block off the
@@ -308,17 +308,17 @@ ceiling lights and dim the booth enough to create adequate contrast for the
 projector.  In the image below, the scene is so dim that you can barely see the
 Experia Touch:
 
-![A bright projection of the Sony Experia Tough, again in a very dim room]()
+![A bright projection of the Sony Experia Tough, again in a very dim room](sony-dark-table.png)
 
 Shadows are a real problem with projectors. Here is a screen capture from a
 demo video from Charbax playing with the Sony Experia Touch at CES:
 
 ![Sony Experia Touch shows a map. The user is dragging the map, but in the
-process, casting a shadow on the image, occluding some of the map]()
+process, casting a shadow on the image, occluding some of the map](sony-map.png)
 
 Here is another image from Sony’s marketing team:
 
-![Sony Experia Touch showing a receipt on a kitchen table. As the cook's hand scrolls the text, it casts a shadow, but the shadow seems to have been photoshopped]() 
+![Sony Experia Touch showing a receipt on a kitchen table. As the cook's hand scrolls the text, it casts a shadow, but the shadow seems to have been photoshopped](sony-kitchen.png) 
 
 In this image, the shadow makes the text implausibly dimmer instead of
 completely occluding it. The team seems to have recognized the problem with
