@@ -50,8 +50,8 @@ tabletops, onto buildings and landscapes  (examples below are from from Obscura
 Digital and Lightform):
 
 ![Image of a lion rendered on a building](lion.png)
-![Image of a rock painted with a projector](rock.png)
-![Image of a shoe painted with a projector](shoe.png)
+![Image of a rock painted with a projector](rock.png){:width="240px"}
+![Image of a shoe painted with a projector](shoe.png){:width="240px"}
 
 These companies showcased what PROCAMs can do in the hands of professionals and
 researchers.  But this article is about consumer PROCAMs.
@@ -137,8 +137,8 @@ computer vision teams to think beyond standard HUD designs. “Driving GPS” is
 what convinced the team that it was ok to use a very expensive GPS
 chip inside Navdy. But none of these concepts represent a need from a customer. 
 
-As useful as these concepts were for the Navdy team, “I wish my phone were
-embodied differently” isn’t a pain drivers feel. “I wish my reality were more
+As useful as these concepts were for the Navdy team, “I want my phone 
+embodied differently” isn’t a pain drivers feel. “I want my reality more
 augmented” is also unrelatable. People seem, by and large, to be satisfied with
 their phones as navigation devices. But within that satisfaction lurk minor
 pain points: You sometimes miss a turn because you split your attention, and
@@ -212,7 +212,7 @@ That they pursued both approaches is what makes them confusing. It's tempting
 to think that people buy them for the magic, but their value propositions is
 straighforward.  The iPhone finally made it possible to browse web pages on the
 go the way they appeared on desktops. The alternatives at the time were laptops
-+ GSM radio dongles, or Nokia phones with small screens and a web proxy that
+with GSM radio dongles, or Nokia phones with small screens and a web proxy that
 reformatted web pages.  Nest thermostats updated the outmoded bakelite
 aesthetic that Honeywell had popularized. Nest’s haptic dial and its beautiful
 central display were technological enhancements that solved an interior design
