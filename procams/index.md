@@ -2,7 +2,7 @@
 
 Camera and projectors yearn to be merged. Both have pixels, similar frame
 rates, resolutions, and fields of view.  The instinct to merge these
-technologies goes back decades. Its devotes rally under the monicker
+technologies goes back decades. Its devotees rally under the moniker
 “PROCAM”.
 
 Venture Capitalists and Vice Presidents at established tech
@@ -12,7 +12,7 @@ companies are frequently pitched consumer PROCAMs:
 	“We'll delight users by bringing them closer to their data”;
 	“We'll seamlessly meld the digital and physical”;
 	"It's augmented reality without a clunky face-computer";
-	"It's the the fourth screen in your life!".
+	"It's the fourth screen in your life!".
 I’m making up these quotes, but all of them strike close to home for me. PROCAM
 projects sometimes ship, but they have never become the successes their inventors
 hope for. Each round, new lessons are learned then forgotten, and years later, new
@@ -70,10 +70,10 @@ Here is Amazon’s Glow, a tabletop PROCAM that projects on tables:
 
 ![A procam display on a table. A child touching the illuminated tabletop](glow.png)
 
-You can play games, or make video calls with it. Here is Sony’s Experia Touch,
+You can play games, or make video calls with it. Here is Sony’s Xperia Touch,
 designed to project either on a wall or on a table depending on how it’s oriented:
 
-![The Sony Experia Touch showing time & weather on a wall. A silhouette observing the wall.](silhouette.png)
+![The Sony Xperia Touch showing time & weather on a wall. A silhouette observing the wall.](silhouette.png)
 
 [CastAR](https://venturebeat.com/2017/06/28/castars-collapse-shows-the-incredible-challenge-of-making-ar-games/)
 were augmented reality glasses. Instead of shining light directly from the
@@ -201,7 +201,7 @@ appear to be saying that consumers are mercenaries with well-defined pain
 points and missions with clear economic agendas, and that the soul of a product
 is irrelevant to them. To a first approximation, I’ll in fact claim exactly
 this. I think it’s a helpful mental model for product development and a less
-misleading one that the one engineers learn from exposing themsleves to the
+misleading one that the one engineers learn from exposing themselves to the
 barrel-end of advertising or the popular press.
 
 The usual counter-argument against what I’m saying is that consumers do adopt
@@ -296,32 +296,32 @@ it's too late. Here is the Amazon Glow marketing image again:
 ![A procam display on a table. A child touching the illuminated tabletop](glow.png)
 
 The screen on the table is white, but Elmo’s eyes are implausibly black. The pixels
-of a projector can’t be darker than the background. Somebody photoshopped this
+of a projector can’t be darker than the background. Somebody Photoshopped this
 image! The team seemingly recognized that a compelling experience needed black
 pixels. But because physics was unyielding so they resorted to Photoshop.
 
 The flip side of the black pixel problem is that projectors have dismal
 contrast under typical lighting. Here is the Sony Xperia at CES:
 
-![Sony Experia Touch showing adequately high contrast image, but in a dark room](sony-dark-wall.png)
+![Sony Xperia Touch showing adequately high contrast image, but in a dark room](sony-dark-wall.png)
 
 The walls of the booth are white, yet they appear gray. The walls of the booth
 had to be extend to the ceiling of the convention center to block off the
 ceiling lights and dim the booth enough to create adequate contrast for the
 projector.  In the image below, the scene is so dim that you can barely see the
-Experia Touch:
+Xperia Touch:
 
-![A bright projection of the Sony Experia Tough, again in a very dim room](sony-dark-table.png)
+![A bright projection of the Sony Xperia Tough, again in a very dim room](sony-dark-table.png)
 
 Shadows are a real problem with projectors. Here is a screen capture from a
-demo video from Charbax playing with the Sony Experia Touch at CES:
+demo video from Charbax playing with the Sony Xperia Touch at CES:
 
-![Sony Experia Touch shows a map. The user is dragging the map, but in the
+![Sony Xperia Touch shows a map. The user is dragging the map, but in the
 process, casting a shadow on the image, occluding some of the map](sony-map.png)
 
 Here is another image from Sony’s marketing team:
 
-![Sony Experia Touch showing a receipt on a kitchen table. As the cook's hand scrolls the text, it casts a shadow, but the shadow seems to have been photoshopped](sony-kitchen.png) 
+![Sony Xperia Touch showing a receipt on a kitchen table. As the cook's hand scrolls the text, it casts a shadow, but the shadow seems to have been Photoshopped](sony-kitchen.png) 
 
 In this image, the shadow makes the text implausibly dimmer instead of
 completely occluding it. The team seems to have recognized the problem with
