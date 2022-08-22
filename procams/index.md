@@ -1,6 +1,6 @@
 # Projector-Camera Systems: Here Be Dragons
 
-Camera and projectors yearn to be merged. Both have pixels, similar frame
+Cameras and projectors yearn to be merged. Both have pixels, similar frame
 rates, resolutions, and fields of view.  The instinct to merge these
 technologies goes back decades. Its devotees rally under the moniker
 “PROCAM”.
@@ -49,7 +49,7 @@ Lightspace engendered a number of other successful projects at Microsoft, but
 Lightscape itself wound down over time.
 
 Other companies expanded the projection surface beyond Lightspace's walls, hands, and
-tabletops, onto buildings and landscapes  (examples below are from from Obscura
+tabletops, onto buildings and landscapes  (examples below are from Obscura
 Digital and Lightform):
 
 ![Image of a lion rendered on a building](lion.png){:display=block}
@@ -61,7 +61,7 @@ researchers.  But this article is about consumer PROCAMs.
 
 Here is one PROCAM that projected on windows:
 
-![Image of a head up display mounted in a car, with traffic visible through the it](navdy.png)
+![Image of a head up display mounted in a car, with traffic visible through it](navdy.png)
 
 This was Navdy, an after-market head-up display (HUD) for cars. It had a
 projector, a camera, and all the other components you’d expect from a PROCAM.
@@ -102,7 +102,7 @@ they'll be begging us for it". Especially with PROCAMs, this particular leap of
 faith tends to end badly.
 
 2. The competition from phones and tablets is stiff. If a tablet can get the
-job done even partially adequately, a PROCAM will likley lose.  Instead of
+job done even partially adequately, a PROCAM will likely lose.  Instead of
 picking a head-on fight with a entrenched incumbent, compete in a
 market it cannot currently serve.
 
@@ -112,7 +112,7 @@ due to limitations inherent to projection. No amount of research and
 development can bridge this gap. The pitfall is to fall in love with your
 technology and discount its limitations.
 
-I'll belabor each of these in more detail below.
+I'll elaborate on each of these in more detail below.
 
 ### What problem will you solve for your customers, and are they willing to pay for it?
 
@@ -146,8 +146,8 @@ augmented” is also unrelatable. People seem, by and large, to be satisfied wit
 their phones as navigation devices. But within that satisfaction lurk minor
 pain points: You sometimes miss a turn because you split your attention, and
 often even put people's lives in danger.  Your eye has to change its focal
-length as you glance between the road, you phone, then back. That adjustment
-takes a few seconds, which mean the road is briefly out of focus. You also
+length as you glance between the road, your phone, then back. That adjustment
+takes a few seconds, which means the road is briefly out of focus. You also
 waste time looking at your phone while your eye is out of focus. These moments
 of defocus are dangerous. With a HUD, you don’t have to refocus your eyes
 because the image plane is near the road.  Touchscreens are also dangerous.
@@ -163,8 +163,8 @@ was never clearly about safety. Focus came late.  We were wrapped up in how
 cool it was for too long. Had we started with customer safety pain points
 sooner, we could have honed the marketing, and trimmed Navdy’s original list of
 features much more quickly and more aggressively. This would have given us more
-time to make Navdy’s focal length longer, its field of view larger, and its
-body, and most importantly its price tag smaller. All of this would have been
+time to make Navdy’s focal length longer, its field of view larger, shrink
+ts body, and more importantly, its price tag. All of this would have been
 in the service of helping drivers stay attentive to the road. These
 improvements were relegated to Navdy 2, which was never to be.
 
@@ -213,7 +213,7 @@ important customer pain point that the incumbents weren't addressing, and they
 charged a premium for it, 2) They marketed themselves as aspirational products.
 That they pursued both approaches is what makes them confusing. It's tempting
 to think that people buy them for the magic, but their value propositions is
-straighforward.  The iPhone finally made it possible to browse web pages on the
+straightforward.  The iPhone finally made it possible to browse web pages on the
 go the way they appeared on desktops. The alternatives at the time were laptops
 with GSM radio dongles, or Nokia phones with small screens and a web proxy that
 reformatted web pages.  Nest thermostats updated the outmoded bakelite
@@ -222,7 +222,7 @@ central display were technological enhancements that solved an interior design
 pain points. Smart watches appear to solve primarily one pain point: receiving
 notifications. This seems to be both the reason people purchase these devices
 and how they actually use them long after their purchase [1, 2, 3]. Some
-believe they also solve an aesthetic problems, or help with fitness, but the
+believe they also solve an aesthetic problem, or help with fitness, but the
 studies I cited contradict each other on these points.
 
 My point is that even soulful products tackle customer painpoints explicitly.
@@ -256,7 +256,7 @@ to install an app. To overcome this friction, PROCAMs need more than just being
 Navdy, Sony Xperia Touch, and Amazon Glow tackled domains that are already
 partially serviced by phones and tablets. Navdy competed directly with Google
 Maps running on a cell phone. Navdy had to provide enough value to compensate
-for its hardware cost, the time it took install it in a car (about 30 minutes),
+for its hardware cost, the time it took to install it in a car (about 30 minutes),
 learning its user interface, and giving up on Google Map’s countless features.
 I don't think we managed to make Navdy so useful that it compensated for its
 setup cost and price. The Sony Xperia Touch ran Android, and I also personally
@@ -282,15 +282,15 @@ the color of the screen, which is usually white. In a dim enough environment,
 this not a problem, but in typically lit environments, this results in poor
 image contrast, especially compared to that of OLED displays. To compensate for
 these effects, movie theaters are pitch black (1 lux, dimmer than the dimmest
-reading of professional light meters). Both of these affects are inherent to
+reading of professional light meters). Both of these effects are inherent to
 projection.  Future economies of scale and technical innovations are unlikely
 to solve them. These effects dilute the magic of projection, particularly for
-audiences who’re accustomed to the image quality of OLED panels.  The solution
+audiences who are accustomed to the image quality of OLED panels.  The solution
 is to adopt a more nuanced mental model of what projectors do.  "A projector is
 millions of tiny spotlights" conveys its limitations more fairly than “it turn
 any surfaces into a display”.
 
-PROCAM teams recognize with these issues early on, but often don’t grapple with them until
+PROCAM teams recognize these issues early on, but often don’t grapple with them until
 it's too late. Here is the Amazon Glow marketing image again:
 
 ![A procam display on a table. A child touching the illuminated tabletop](glow.png)
@@ -306,7 +306,7 @@ contrast under typical lighting. Here is the Sony Xperia at CES:
 ![Sony Xperia Touch showing adequately high contrast image, but in a dark room](sony-dark-wall.png)
 
 The walls of the booth are white, yet they appear gray. The walls of the booth
-had to be extend to the ceiling of the convention center to block off the
+had to be extended to the ceiling of the convention center to block off the
 ceiling lights and dim the booth enough to create adequate contrast for the
 projector.  In the image below, the scene is so dim that you can barely see the
 Xperia Touch:
@@ -342,7 +342,7 @@ Back to this Nike image from earlier:
 
 ![A Nike Just Do It ad. We see the top half of A shirtless man holding a basketball awkwardly on his shoulder, a neutral expression on his face.](nike.png)
 
-The words “JUST DO IT” it follows the contours of the athlete. It seems to be
+The words “JUST DO IT” follows the contours of the athlete. It seems to be
 project. And yet the text is black! Earlier, I claimed projectors can't display
 black. How is this image possible? I am guessing the projector is the only
 source of light in this scene. When the projector is off, the room is pitch
@@ -358,7 +358,7 @@ projectors.
 ## Conclusions
 
 I believe in PROCAMs and I want to see a successful one. The pitfalls I’ve
-pointed out are the ones I've seen repeatedly, but they seem straightforwardt o
+pointed out are the ones I've seen repeatedly, but they seem straightforward to
 avoid. They amount to a few lessons.
 
 Don’t get wrapped up in the science fiction of PROCAMs. Focus on a precise
