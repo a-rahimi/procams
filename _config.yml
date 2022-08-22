@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+theme: minimal-jekyll-theme
+header_navigation:
+footer_navigation:
+attribution: false 
+twitter:
+  username: alirahimi0
