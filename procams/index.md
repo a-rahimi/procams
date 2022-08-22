@@ -1,4 +1,4 @@
-# Projector-Camera Systems: There Be Dragons Here
+# Projector-Camera Systems: Here Be Dragons
 
 Camera and projectors yearn to be merged. Both involve pixels, similar frame
 rates, fields of view, and resolutions.  The instinct for this merger goes back
