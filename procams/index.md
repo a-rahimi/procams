@@ -1,19 +1,21 @@
 # Projector-Camera Systems: Here Be Dragons
 
-Camera and projectors yearn to be merged. Both involve pixels, similar frame
-rates, fields of view, and resolutions.  The instinct for this merger goes back
-decades, and its devotes rally under the monicker “PROCAM”.
+Camera and projectors yearn to be merged. Both have pixels, similar frame
+rates, resolutions, and fields of view.  The instinct to merge these
+technologies goes back decades. Its devotes rally under the monicker
+“PROCAM”.
 
-Venture Capitalists who fund startups and Vice Presidents at established tech
-companies are frequently pitched consumer PROCAMs. One pitch might go “We can
-make everyday surfaces like tabletopcs smart/alive!”. A more business-oriented
-one might try “We can present our platform to our users in new magical ways!”
-Other attempts: “We'll delight users by bringing them closer to their data”,
-“We'll seamlessly meld the digital and physical”, "It's augmented reality
-without a clunky face-computer", "It's the the fourth screen in your life!".
+Venture Capitalists and Vice Presidents at established tech
+companies are frequently pitched consumer PROCAMs:
+	“We can make everyday surfaces look smart/alive!”;
+	“We can present our platform to our users in new magical ways!”;
+	“We'll delight users by bringing them closer to their data”;
+	“We'll seamlessly meld the digital and physical”;
+	"It's augmented reality without a clunky face-computer";
+	"It's the the fourth screen in your life!".
 I’m making up these quotes, but all of them strike close to home for me. PROCAM
-projects sometimes ship, but have never become the successes their inventors
-hope for. Each time, new lessons are learned then forgotten. Years later, new
+projects sometimes ship, but they have never become the successes their inventors
+hope for. Each round, new lessons are learned then forgotten, and years later, new
 PROCAM pitches resurface as new employees gain prominence and old VCs and VPs
 cycle.
 
@@ -24,11 +26,12 @@ as a founder, sometimes as an engineer, and sometimes as a spectator, holding
 back the urge to jump back into the ring.
 
 Most commercial ventures fail because there are many more ways to fail than
-there are ways to succeed.  I suspect the failure rate of PROCAM project
-is not much worse than that of any other high-tech endeavor. But PROCAM
-projects seem to have similar failure patterns. My hope is that by documenting
-these failures, someone can find a way through the pitfalls and build a PROCAM
-that takes the world by storm.
+there are ways to succeed.  I suspect the failure rate of PROCAM project is not
+much worse than that of any other high-tech endeavor. But PROCAM projects seem
+to have similar failure patterns. My hope is to document these failures, so
+someone can find a way through the pitfalls and build a PROCAM that takes the
+world by storm.
+
 
 ## What Projector Camera Systems Look like
 
