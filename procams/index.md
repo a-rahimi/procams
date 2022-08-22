@@ -221,7 +221,7 @@ aesthetic that Honeywell had popularized. Nest’s haptic dial and its beautiful
 central display were technological enhancements that solved an interior design
 pain points. Smart watches appear to solve primarily one pain point: receiving
 notifications. This seems to be both the reason people purchase these devices
-and how they actually use them long after their purchase [1, 2, 3]. Some
+and how they actually use them long after their purchase (see [1](https://www.diva-portal.org/smash/get/diva2:1330033/FULLTEXT01.pdf), [2](https://isiarticles.com/bundles/Article/pre/pdf/85139.pdf), [3](https://www.sciencedirect.com/science/article/abs/pii/S074756321630468X)). Some
 believe they also solve an aesthetic problem, or help with fitness, but the
 studies I cited contradict each other on these points.
 
