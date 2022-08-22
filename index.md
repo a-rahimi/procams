@@ -1,4 +1,4 @@
-# There Be Dragons Here: Projector-Camera Systems
+# Projector-Camera Systems: There Be Dragons Here
 
 Camera and projectors yearn to be merged. Both involve pixels, similar frame
 rates, fields of view, and resolutions.  The instinct for this merger goes back
@@ -383,3 +383,9 @@ asking the hard questions: What customer pain points does your product solve?
 Why can’t phones and tablets solve it? How will you avoid tilting against
 fundamental limitations of projectors?
 
+# Appendix
+
+This essay made some technical claims that I'm relegating to an appendix:
+
+* Why [projectors have inherently worse contrast than OLED panels](contrast.md).
+* Navdy probably didn't need to have a projector. It could have been an [OLED HUD](oledhud.md).
