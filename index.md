@@ -111,7 +111,7 @@ technology and discount its limitations.
 
 I'll belabor each of these in more detail below.
 
-### Forgetting the customer: what problem will you solve for them, and are they willing to pay for it?
+### What problem will you solve for your customers, and are they willing to pay for it?
 
 The pitfall is to focus on how the technology works and what makes it cool, and
 delaying solving problems for a real customer. This is a subtle pitfall.
