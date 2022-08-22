@@ -1,0 +1,3 @@
+Projectors + Cameras: There be dragons there. I've spent a lot of my life
+building systems that combine these technologies. It's never ended well for me.
+I'm writing down my lessons so others don't make the same mistakes I made.
