@@ -337,7 +337,7 @@ keep running into problems with contrast, shadows, and black pixels.
 
 Back to this Nike image from earlier:
 
-![A Nike Just Do It ad. We see the top half of A shirtless man holding a basketball awkwardly on his shoulder, a neutral expression on his face.]()
+![A Nike Just Do It ad. We see the top half of A shirtless man holding a basketball awkwardly on his shoulder, a neutral expression on his face.](nike.png)
 
 The words “JUST DO IT” it follows the contours of the athlete. It seems to be
 project. And yet the text is black! Earlier, I claimed projectors can't display
