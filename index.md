@@ -49,9 +49,9 @@ Other companies expanded the projection surface beyond Lightspace's walls, hands
 tabletops, onto buildings and landscapes  (examples below are from from Obscura
 Digital and Lightform):
 
-![Image of a lion rendered on a building](lion.png)
-![Image of a rock painted with a projector](rock.png){:width="240px"}
-![Image of a shoe painted with a projector](shoe.png){:width="240px"}
+![Image of a lion rendered on a building](lion.png){:display=block}
+![Image of a rock painted with a projector](rock.png){:width="300px"}
+![Image of a shoe painted with a projector](shoe.png){:width="300px"}
 
 These companies showcased what PROCAMs can do in the hands of professionals and
 researchers.  But this article is about consumer PROCAMs.
