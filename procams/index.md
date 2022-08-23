@@ -170,19 +170,19 @@ improvements were relegated to Navdy 2, which was never to be.
 
 Focusing on customer pain points is a skill. One learns it like any other
 skill: by training and developing new instincts. Without training, one resorts
-to old instincts, and most of these instincts probably came from ingesting
+to old instincts, and most of these instincts probably come from ingesting
 advertising. Ads that directly tackle a customer pain point are rare. Here’s an
 early one from Apple:
 
 ![A 1980s ad for the Apple computer](apple.png)
 
-The pain point amounts to “PCs are hard to learn. Apple makes it easier.” It’s
-rare for consumer electronics ads today to explicitly call out the pain point
-they tackle. Ads for established product categories, like computers, tend to
-focus on specs (clock rate of the CPU, number of cores, amount of RAM, etc).
-Specs are a short-hand for well-understood consumer pain points. For example,
-"more RAM" is generally understood to solve the problem of computers stuttering
-when too many programs are running.
+The pain point amounts to “PCs are hard to learn. Apple makes it easier.” It is
+straightforward. It’s rare for consumer electronics ads today to explicitly
+call out the pain point they tackle. Ads for established product categories,
+like computers, tend to focus on specs (clock rate of the CPU, number of cores,
+amount of RAM, etc).  These specs are a short-hand for well-understood consumer pain
+points. For example, "more RAM" is generally understood to solve the problem of
+computers stuttering when too many programs are running.
 
 Some ads can be even more removed from pain points. Here is an ad for a shoe, I
 think:
@@ -207,23 +207,27 @@ barrel-end of advertising or the popular press.
 The usual counter-argument against what I’m saying is that consumers do adopt
 radically different technologies when they’re sufficiently magical, like Nest
 thermostats, Apple watches, and the iPhone. These products replaced
-well-established incumbents despite cost much more. Couldn’t a PROCAM do the
-same? Yes, they could, but all those devices did two things: 1)  They solved an
-important customer pain point that the incumbents weren't addressing, and they
-charged a premium for it, 2) They marketed themselves as aspirational products.
-That they pursued both approaches is what makes them confusing. It's tempting
-to think that people buy them for the magic, but their value propositions is
-straightforward.  The iPhone finally made it possible to browse web pages on the
-go the way they appeared on desktops. The alternatives at the time were laptops
-with GSM radio dongles, or Nokia phones with small screens and a web proxy that
-reformatted web pages.  Nest thermostats updated the outmoded bakelite
-aesthetic that Honeywell had popularized. Nest’s haptic dial and its beautiful
-central display were technological enhancements that solved an interior design
-pain points. Smart watches appear to solve primarily one pain point: receiving
-notifications. This seems to be both the reason people purchase these devices
-and how they actually use them long after their purchase (see [1](https://www.diva-portal.org/smash/get/diva2:1330033/FULLTEXT01.pdf), [2](https://isiarticles.com/bundles/Article/pre/pdf/85139.pdf), [3](https://www.sciencedirect.com/science/article/abs/pii/S074756321630468X)). Some
-believe they also solve an aesthetic problem, or help with fitness, but the
-studies I cited contradict each other on these points.
+well-established incumbents despite costing much more. Couldn’t PROCAMs gain
+adoption the same way? Yes, they could, but all those devices did two things:
+1)  They solved an important customer pain point that the incumbents weren't
+addressing, 2) They marketed themselves as aspirational products.  That they
+pursued both approaches is what makes them confusing. It's tempting to think
+that people buy them for the magic, but their value propositions is
+straightforward.  The iPhone finally made it possible to browse web pages on
+the go the way they appeared on desktops. The alternatives at the time were
+laptops with GSM radio dongles, or Nokia and Blackberry phones with small
+screens and a web proxy that reformatted web pages.  Nest thermostats updated
+the outmoded bakelite aesthetic that Honeywell had popularized. Nest’s haptic
+dial and its beautiful central display were technological enhancements that
+solved an interior design pain points. Smart watches appear to solve primarily
+one pain point: receiving notifications. This seems to be both the reason
+people purchase these devices and how they actually use them long after their
+purchase (see
+[1](https://www.diva-portal.org/smash/get/diva2:1330033/FULLTEXT01.pdf),
+[2](https://isiarticles.com/bundles/Article/pre/pdf/85139.pdf),
+[3](https://www.sciencedirect.com/science/article/abs/pii/S074756321630468X)).
+Some believe they also solve an aesthetic problem, or help with fitness, but
+the studies I cited contradict each other on these points.
 
 My point is that even soulful products tackle customer painpoints explicitly.
 Their ads tend to be aspirational, so we don’t notice when they materially
@@ -262,7 +266,7 @@ I don't think we managed to make Navdy so useful that it compensated for its
 setup cost and price. The Sony Xperia Touch ran Android, and I also personally
 found it less convenient than a standard tablet that cost 5x less.
 
-Before you build your PROCAM system, try to implement the solution to your
+Before you build your PROCAM, try to implement the solution to your
 customer's problem on a tablet first. Does your tablet app seem to solve the
 problem adequately? If so, congratulations!  Please market it and grow it as an
 app. If your tablet app doesn’t take off, it might be a sign you’re tackling a
