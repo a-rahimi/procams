@@ -15,7 +15,7 @@ companies are frequently pitched consumer PROCAMs:
 	"It's the fourth screen in your life!".
 I’m making up these quotes, but all of them strike close to home for me. PROCAM
 projects sometimes ship, but they have never become the successes their inventors
-hope for. Each round, new lessons are learned then forgotten, and years later, new
+hope for. After each failure, new lessons are learned then forgotten, and years later, new
 PROCAM pitches resurface as new employees gain prominence and old VCs and VPs
 cycle.
 
@@ -26,9 +26,9 @@ as a founder, sometimes as an engineer, and sometimes as a spectator, holding
 back the urge to jump back into the ring.
 
 Most commercial ventures fail because there are many more ways to fail than
-there are ways to succeed.  I suspect the failure rate of PROCAM project is not
+there are ways to succeed.  I suspect the failure rate of PROCAM projects is not
 much worse than that of any other high-tech endeavor. But PROCAM projects seem
-to have similar failure patterns. My hope is to document these failures, so
+to have similar failure patterns. My hope is to document these failures so
 someone can find a way through the pitfalls and build a PROCAM that takes the
 world by storm.
 
@@ -96,10 +96,10 @@ turn them into a new generation of PROCAMs. That also didn’t take off.
 
 PROCAMs fall in similar pitfalls as any other technology projects:
 
-1. Forgetting what Problem you're solving for your customer, and whether
-they're willing to pay you for it. "Once they get a taste of our technology,
-they'll be begging us for it". Especially with PROCAMs, this particular leap of
-faith tends to end badly.
+1. Forgetting what problem you're solving for your customer, and whether
+they're willing to pay you for it. This is a dodge: "Once they get a taste of
+our technology, they'll be begging us for it". Especially with PROCAMs, this
+particular leap of faith tends to end badly.
 
 2. The competition from phones and tablets is stiff. If a tablet can get the
 job done even partially adequately, a PROCAM will likely lose.  Instead of
@@ -108,7 +108,7 @@ market it cannot currently serve.
 
 3. Mind the inherent limitations of the technology.  Projected images have
 lower fidelity than an image displayed on an OLED or LCD panel. This is partly
-due to limitations inherent to projection. No amount of research and
+due to inherent limitations of projection. No amount of research and
 development can bridge this gap. The pitfall is to fall in love with your
 technology and discount its limitations.
 
@@ -116,8 +116,8 @@ I'll elaborate on each of these in more detail below.
 
 ### What problem will you solve for your customers, and are they willing to pay for it?
 
-The pitfall is to focus on how the technology works and what makes it cool, and
-delaying solving problems for a real customer. This is a subtle pitfall.
+The pitfall is to focus on how the technology works and what makes it cool, and to
+delay solving problems for a real customer. This is a subtle pitfall.
 Everyone believes they're solving a problem for a real customer. The subtlety
 of the trap is what we really mean by a "real customer", their "problem", and
 what it means to "solve" it.
@@ -132,7 +132,7 @@ customer problems and their solutions.
 
 Navdy tried to be many things: "A driving companion", "the embodiment of your
 phone in your car", "an Augmented Reality HUD", and "a driving GPS".  Internal
-teams found these useful.  The concept of a “driving companion” is helpful for
+teams found these concepts useful.  The concept of a “driving companion” is helpful for
 a UI designer trying to choose an aesthetic. “The embodiment of your phone in
 your car” is helpful to decide how much of a phone’s capability to replicate in
 Navdy. “Augmented Reality” was a way to embolden the optical engineering and
@@ -144,7 +144,7 @@ As useful as these concepts were for the Navdy team, “I want my phone
 embodied differently” isn’t a pain drivers feel. “I want my reality more
 augmented” is also unrelatable. People seem, by and large, to be satisfied with
 their phones as navigation devices. But within that satisfaction lurk minor
-pain points: You sometimes miss a turn because you split your attention, and
+pain points: When you drive, you sometimes miss a turn because you split your attention, and
 often even put people's lives in danger.  Your eye has to change its focal
 length as you glance between the road, your phone, then back. That adjustment
 takes a few seconds, which means the road is briefly out of focus. You also
@@ -152,37 +152,37 @@ waste time looking at your phone while your eye is out of focus. These moments
 of defocus are dangerous. With a HUD, you don’t have to refocus your eyes
 because the image plane is near the road.  Touchscreens are also dangerous.
 They force you to look away from the road and take your hands off the wheel.
-You interacted with Navdy with a wheel-mounted dial widget, you could keep your
+You interacted with Navdy with a wheel-mounted dial widget so you could keep your
 hands on the wheel at all times.  These are  real but relatively minor
 painpoints. Most drivers won't pay much just to be marginally safer drivers,
 unless the product makes them _feel_ safe. And I don't think Navdy ever
 optimized for the feeling of safety. In fact, I once asked our UX lead to
 deprioritize a safety study he wanted to undertake because we were already a
 year late shipping, and I wanted the team to focus on shipping. Navdy's mission
-was never clearly about safety. Focus came late.  We were wrapped up in how
+was never clearly about safety. We were wrapped up in how
 cool it was for too long. Had we started with customer safety pain points
 sooner, we could have honed the marketing, and trimmed Navdy’s original list of
 features much more quickly and more aggressively. This would have given us more
-time to make Navdy’s focal length longer, its field of view larger, shrink
-ts body, and more importantly, its price tag. All of this would have been
+time to make Navdy’s focal length longer, its field of view larger, to shrink
+its body, and more importantly, its price tag. All of this would have been
 in the service of helping drivers stay attentive to the road. These
 improvements were relegated to Navdy 2, which was never to be.
 
 Focusing on customer pain points is a skill. One learns it like any other
 skill: by training and developing new instincts. Without training, one resorts
-to old instincts, and most of these instincts probably came from ingesting
+to old instincts, and most of these instincts probably come from ingesting
 advertising. Ads that directly tackle a customer pain point are rare. Here’s an
 early one from Apple:
 
 ![A 1980s ad for the Apple computer](apple.png)
 
-The pain point amounts to “PCs are hard to learn. Apple makes it easier.” It’s
-rare for consumer electronics ads today to explicitly call out the pain point
-they tackle. Ads for established product categories, like computers, tend to
-focus on specs (clock rate of the CPU, number of cores, amount of RAM, etc).
-Specs are a short-hand for well-understood consumer pain points. For example,
-"more RAM" is generally understood to solve the problem of computers stuttering
-when too many programs are running.
+The pain point amounts to “PCs are hard to learn. Apple makes it easier.” It is
+straightforward. It’s rare for consumer electronics ads today to explicitly
+call out the pain point they tackle. Ads for established product categories,
+like computers, tend to focus on specs (clock rate of the CPU, number of cores,
+amount of RAM, etc).  These specs are a short-hand for well-understood consumer pain
+points. For example, "more RAM" is generally understood to solve the problem of
+computers stuttering when too many programs are running.
 
 Some ads can be even more removed from pain points. Here is an ad for a shoe, I
 think:
@@ -205,25 +205,29 @@ misleading one that the one engineers learn from exposing themselves to the
 barrel-end of advertising or the popular press.
 
 The usual counter-argument against what I’m saying is that consumers do adopt
-radically different technologies when they’re sufficiently magical, like Nest
-thermostats, Apple watches, and the iPhone. These products replaced
-well-established incumbents despite cost much more. Couldn’t a PROCAM do the
-same? Yes, they could, but all those devices did two things: 1)  They solved an
-important customer pain point that the incumbents weren't addressing, and they
-charged a premium for it, 2) They marketed themselves as aspirational products.
-That they pursued both approaches is what makes them confusing. It's tempting
-to think that people buy them for the magic, but their value propositions is
-straightforward.  The iPhone finally made it possible to browse web pages on the
-go the way they appeared on desktops. The alternatives at the time were laptops
-with GSM radio dongles, or Nokia phones with small screens and a web proxy that
-reformatted web pages.  Nest thermostats updated the outmoded bakelite
-aesthetic that Honeywell had popularized. Nest’s haptic dial and its beautiful
-central display were technological enhancements that solved an interior design
-pain points. Smart watches appear to solve primarily one pain point: receiving
-notifications. This seems to be both the reason people purchase these devices
-and how they actually use them long after their purchase (see [1](https://www.diva-portal.org/smash/get/diva2:1330033/FULLTEXT01.pdf), [2](https://isiarticles.com/bundles/Article/pre/pdf/85139.pdf), [3](https://www.sciencedirect.com/science/article/abs/pii/S074756321630468X)). Some
-believe they also solve an aesthetic problem, or help with fitness, but the
-studies I cited contradict each other on these points.
+radically different technologies when they’re sufficiently magical. Nest
+thermostats, Apple watches, and the iPhone are offered as examples. These products
+replaced well-established incumbents despite costing much more. Couldn’t
+PROCAMs gain adoption the same way? Yes, they could, but all those devices did
+two things: 1)  They solved an important customer pain point that the
+incumbents weren't addressing, 2) They marketed themselves as aspirational
+products.  That they pursued both approaches is what makes them confusing. It's
+tempting to think that people buy them for the magic, but their value
+propositions is straightforward.  The iPhone finally made it possible to browse
+web pages on the go the way they appeared on desktops. The alternatives at the
+time were laptops with GSM radio dongles, or Nokia and Blackberry phones with
+small screens and a web proxy that reformatted web pages.  Nest thermostats
+updated the outmoded bakelite aesthetic that Honeywell had popularized. Nest’s
+haptic dial and its beautiful central display were technological enhancements
+that solved an interior design pain points. Smart watches appear to solve
+primarily one pain point: receiving notifications. This seems to be both the
+reason people purchase these devices and how they actually use them long after
+their purchase (see
+[1](https://www.diva-portal.org/smash/get/diva2:1330033/FULLTEXT01.pdf),
+[2](https://isiarticles.com/bundles/Article/pre/pdf/85139.pdf),
+[3](https://www.sciencedirect.com/science/article/abs/pii/S074756321630468X)).
+Some believe they also solve an aesthetic problem, or help with fitness, but
+the studies I cited contradict each other on these points.
 
 My point is that even soulful products tackle customer painpoints explicitly.
 Their ads tend to be aspirational, so we don’t notice when they materially
@@ -262,7 +266,7 @@ I don't think we managed to make Navdy so useful that it compensated for its
 setup cost and price. The Sony Xperia Touch ran Android, and I also personally
 found it less convenient than a standard tablet that cost 5x less.
 
-Before you build your PROCAM system, try to implement the solution to your
+Before you build your PROCAM, try to implement the solution to your
 customer's problem on a tablet first. Does your tablet app seem to solve the
 problem adequately? If so, congratulations!  Please market it and grow it as an
 app. If your tablet app doesn’t take off, it might be a sign you’re tackling a
