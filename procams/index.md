@@ -5,19 +5,17 @@ rates, resolutions, and fields of view.  The instinct to merge these
 technologies goes back decades. Its devotees rally under the moniker
 “PROCAM”.
 
-Venture Capitalists and Vice Presidents at established tech
-companies are frequently pitched consumer PROCAMs:
+Here are some imaginary pitches for consumer PROCAMs:
 	“We can make everyday surfaces look smart/alive!”;
 	“We can present our platform to our users in new magical ways!”;
 	“We'll delight users by bringing them closer to their data”;
 	“We'll seamlessly meld the digital and physical”;
 	"It's augmented reality without a clunky face-computer";
 	"It's the fourth screen in your life!".
-I’m making up these quotes, but all of them strike close to home for me. PROCAM
-projects sometimes ship, but they have never become the successes their inventors
-hope for. After each failure, new lessons are learned then forgotten, and years later, new
-PROCAM pitches resurface as new employees gain prominence and old VCs and VPs
-cycle.
+I’m making up these quotes, but all of them sound faimilar to me. As
+exciting as these pitches may sound, they avoid answering the hard questions:
+What customer pain point are you solving? How do you know that customer is
+willingness to pay? And why do projectors provide the right engineer tradeoff?
 
 This article is about consumer PROCAMs and why they haven’t taken off.  I
 believe the instinct behind PROCAMs is sound.  I’ve been involved in PROCAM
@@ -33,7 +31,7 @@ someone can find a way through the pitfalls and build a PROCAM that takes the
 world by storm.
 
 
-## What Projector Camera Systems Look like
+## What projector-camera systems look like
 
 There is joy in watching a wall, a tabletop, or even a shoe, respond to touch.
 The instinct to animate everyday objects seems fundamental.  This might be why
@@ -237,7 +235,7 @@ By the way, the Nike ad above has an impressive projected effect. The projector
 appears to be projecting darkness instead of lightness. More on that later.
 
 
-### The Competition from phones and tablets is stiff
+### The competition from phones and tablets is stiff
 
 The main competitor for a PROCAM is often a phone, a tablet, or a computer with
 a large external monitor.  I believe that if these devices mostly solve a
@@ -385,7 +383,7 @@ bosses. They’re enchanted by your vision because your demos are breathtaking
 and spectacular. They’ll agree to give plenty of rope to hang yourself. Their
 exuberance is not a validation of your product idea. It’s merely validation
 that PROCAMs are magical, which is an already well-established fact.  You and
-your investors are enmeshed in the same trance. Ignore them and get back to
+your investors are enmeshed in the same trance. Focus on the task at hand by
 asking the hard questions: What customer pain points does your product solve?
 Why can’t phones and tablets solve it? How will you avoid tilting against
 fundamental limitations of projectors?
