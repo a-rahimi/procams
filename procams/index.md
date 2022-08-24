@@ -366,13 +366,14 @@ avoid. They amount to a few lessons.
 Don’t get wrapped up in the science fiction of PROCAMs. Focus on a precise
 customer pain point. In defining it, avoid language like “delight”, “reduce
 friction”, or “magical”, and focus instead on the more mundane language of
-"pain point and willingness to pay". Don't try to solve pain points that can be
-even remotely addressed by phones or tablets. These technologies might not
-solve the problem perfectly, but their availability, familiarity, and
-convenience gives them an insurmountable incumbent’s advantage. Treat the
-physical limitations of the projector as first class design constraints from
-day one: How will you avoid needing high contrast? How will you avoid needing
-black pixels? How will you avoid shadows?
+"pain point and willingness to pay". A problem not worth solving is not worth
+solving using a PROCAM. Don't try to solve pain points that can be even
+remotely addressed by phones or tablets. These technologies might not solve the
+problem perfectly, but their availability, familiarity, and convenience gives
+them an insurmountable incumbent’s advantage. Treat the physical limitations of
+the projector as first class design constraints from day one: How will you
+avoid needing high contrast? How will you avoid needing black pixels? How will
+you avoid shadows?
 
 I offered examples of PROCAMs that avoided many of these pitfalls. For example,
 Navdy and CastAR engineered their projection surfaces. Obscura Digital runs
