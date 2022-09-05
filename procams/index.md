@@ -1,4 +1,5 @@
 # Projector-Camera Systems: Here Be Dragons
+**By [Ali Rahimi](https://github.com/a-rahimi/)**
 
 Cameras and projectors yearn to be merged. Both have pixels, similar frame
 rates, resolutions, and fields of view.  The instinct to merge these
